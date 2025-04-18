@@ -1,0 +1,42 @@
+[33mcommit b75693199205f426db7f1a43a0143b8a97e3684e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmember2-feature[m[33m)[m
+Author: tai-fan-new <yuepeng.lin-1@student.uts.edu.au>
+Date:   Fri Apr 18 17:12:31 2025 +1000
+
+    Fix: Added comment to index.html
+
+[33mcommit d86969665065b2980ef7792d2c951f017b3d6b88[m[33m ([m[1;31morigin/member1-feature[m[33m, [m[1;32mmember1-feature[m[33m)[m
+Author: tai-fan-new <yuepeng.lin-1@student.uts.edu.au>
+Date:   Fri Apr 18 17:11:01 2025 +1000
+
+    member1: add member1.html
+
+[33mcommit 16e0872ab98869834c92c6ad0ca8b3e913b9b33d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mleader-feature[m[33m)[m
+Author: tai-fan-new <yuepeng.lin-1@student.uts.edu.au>
+Date:   Fri Apr 18 17:10:12 2025 +1000
+
+    leader: add leader.html
+
+[33mcommit f7c2243c5e5c268bf3d34fd1d0b9a7c7483996d5[m
+Merge: 872e288 0b09d17
+Author: tai-fan-new <yuepeng.lin-1@student.uts.edu.au>
+Date:   Fri Apr 18 17:08:01 2025 +1000
+
+    Merge branch 'main' of https://github.com/tai-fan-new/team-website-demo
+
+[33mcommit 872e2888b7ac6d1a31567ab66408c99bf44264e4[m
+Author: tai-fan-new <yuepeng.lin-1@student.uts.edu.au>
+Date:   Fri Apr 18 17:01:28 2025 +1000
+
+    member2: add member2.html
+
+[33mcommit 0b09d175e92f332bea86a7cc3ea2fc901da796b1[m
+Author: tai-fan-new <yuepeng.lin-1@student.uts.edu.au>
+Date:   Fri Apr 18 17:00:09 2025 +1000
+
+    member1: add member1.html
+
+[33mcommit d67dd62859f2a2b4e20feeb33df6d58adeabc1a2[m
+Author: tai-fan-new <yuepeng.lin-1@student.uts.edu.au>
+Date:   Fri Apr 18 16:43:59 2025 +1000
+
+    Initial commit with index.html
